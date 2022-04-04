@@ -44,13 +44,27 @@
 < **서평 작성 화면** > 
 ![image](https://user-images.githubusercontent.com/55613591/161544364-4bc0f6e7-df6a-4209-88e4-dd076a30f2df.png)
 
-< 서평 공간 (목록) 화면 > 
+< **서평 공간 (목록) 화면** > 
+![image](https://user-images.githubusercontent.com/55613591/161545059-ba6a0fb6-a2d4-4f7d-aa55-8d3ade317781.png)
 
-< 서평 상세 화면 >
+< **서평 상세 화면** >
+![image](https://user-images.githubusercontent.com/55613591/161545094-34195beb-5fef-44b6-a0ca-5a1a1f872ced.png)
 
-### 명세서 📚
+### 명세서 List 📚
+```
+1. 기능 명세서
+2. UI 명세서
+3. DB 명세서
+```
+
+_**위의 명세서는 아래 링크에서 확인 가능!**_
+
+<a href="https://github.com/onestar31/bookcat_reademe/wiki/%EB%AA%85%EC%84%B8%EC%84%9C"><img src="https://img.shields.io/badge/명세서 List home page-e8a5a5?style=for-the-badge&logoWidth=50"/></a>
 
 ### 트러블 슈팅 🎯
+* **JSON 인코딩 에러** : https://paabaep.tistory.com/30?category=1250763
+* **프론트 백 연결** (Django REST framework 이용) : https://edorrr.tistory.com/19
+* **CORS 오류 해결** : https://velog.io/@han-byul-yang/SOP-CORS%EB%9E%80
 
 ### 개선 사항 ❗
 1. 다른 사람의 서평을 보고 이를 공유할 수 있는 기능 추가
